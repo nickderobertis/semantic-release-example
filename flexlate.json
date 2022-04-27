@@ -15,9 +15,9 @@
     {
       "name": "copier-semantic-release",
       "data": {
-        "main_branch_name": "main",
         "repo_name": "semantic-release-example",
-        "repo_username": "nickderobertis"
+        "repo_username": "nickderobertis",
+        "main_branch_name": "main"
       },
       "version": "7c26239d1ab73f72e583a27db3966e7a",
       "add_mode": "local",
