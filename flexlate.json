@@ -1,0 +1,15 @@
+{
+  "template_sources": [
+    {
+      "name": "copier-semantic-release",
+      "path": "../../home/runner/work/_temp/copier-semantic-release",
+      "type": "copier",
+      "version": "7c26239d1ab73f72e583a27db3966e7a",
+      "git_url": null,
+      "target_version": null,
+      "render_relative_root_in_output": ".",
+      "render_relative_root_in_template": "output"
+    }
+  ],
+  "applied_templates": []
+}
