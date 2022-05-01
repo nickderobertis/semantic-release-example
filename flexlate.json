@@ -4,7 +4,7 @@
       "name": "copier-semantic-release",
       "path": "../copier-semantic-release",
       "type": "copier",
-      "version": "7c26239d1ab73f72e583a27db3966e7a",
+      "version": "8c417f29020698af2a3e4b38d8438546",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -19,7 +19,7 @@
         "repo_username": "nickderobertis",
         "main_branch_name": "main"
       },
-      "version": "7c26239d1ab73f72e583a27db3966e7a",
+      "version": "8c417f29020698af2a3e4b38d8438546",
       "add_mode": "local",
       "root": "."
     }
